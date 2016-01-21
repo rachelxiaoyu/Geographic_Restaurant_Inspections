@@ -1,7 +1,8 @@
 # Geographic Restaurant Inspections Distribution
 
 # Overview
-This project aims to quantify the restaurnat inspections and score properties in New York city. The original data was provided as .csv files with five tabs. Here are a brief view of the original data format. 
+This project aims to quantify the restaurnat inspections and score properties in New York city. The original data was provided as .csv files with five tabs. Here are a brief view of the original data format.   
+![sql2](https://cloud.githubusercontent.com/assets/14169124/12483563/b7d2d138-c023-11e5-8375-2029dcd3c133.png)
 We mainly forcused on the geographic distribution of scores. The figure below shows the score map as a function of the NY city map.  
 ![violation](https://cloud.githubusercontent.com/assets/14169124/12483473/39e13256-c023-11e5-8cab-9b6580f79517.png)
 
